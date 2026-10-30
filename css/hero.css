@@ -4,7 +4,7 @@
 }
 
 .hero-title {
-  width: 496px;
+  max-width: 496px;
   margin: 0 auto 48px;
   color: #ffffff;
   font-family: 'Roboto', sans-serif;
