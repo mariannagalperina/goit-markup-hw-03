@@ -23,6 +23,7 @@
 .team-item {
   width: 264px;
   background-color: #ffffff;
+  border-radius: 0 0 4px 4px;
 }
 
 .team-member-name {
@@ -49,9 +50,8 @@
 .team-item img {
   display: block;
   width: 100%;
-  height: 260px;
 }
 
 .team-card-content {
-  padding: 32px 0;
+  padding: 32px 16px;
 }
